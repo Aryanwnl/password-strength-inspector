@@ -1,0 +1,23 @@
+# ================================
+# Password Strength NLP Project
+# Requirements File
+# ================================
+
+# --- Core Dependencies ---
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.2
+
+# --- Data Visualization ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- NLP / Text Processing ---
+nltk==3.9.1
+
+# --- Database / Storage ---
+sqlite3-binary==0.0.1
+
+# --- Development / Environment ---
+jupyter==1.1.1
+notebook==7.2.2
